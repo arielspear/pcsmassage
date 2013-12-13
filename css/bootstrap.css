@@ -885,6 +885,7 @@ pre code {
 .row:after {
   display: table;
   content: " ";
+    clear:both
 }
 
 .row:after {
