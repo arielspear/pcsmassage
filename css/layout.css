@@ -1,0 +1,39 @@
+.main-container{
+    
+}
+
+.header{
+    background-color: red;
+    clear: both;
+}
+
+.site-title{
+    background-color: green;
+    float: left;
+}
+
+.logo{
+    background-color: blue;
+    float: right;
+}
+
+.body-container {
+    background-color: purple;
+}
+
+.navBar {
+    background-color: orange;
+    width: 30%;
+    float: left;
+}
+
+.the-footer {
+    background-color: yellow;
+    clear: both;
+}
+
+.body-content {
+    width: 65%;
+    background-color: red;
+    float:right;
+}
