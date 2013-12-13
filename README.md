@@ -2,20 +2,25 @@ Rayne Drop
 Freelance Massage Therapist
 
 --Style Stuffs
+
 Sweet, Sweet Favicon
 Background Image, repeatable
 Responsive with media queries
 
 --Content
+
 Header
     Title
     Logo
     Catchphrase
+
 NavBar/SideBar
     Links to each Body Page
     Image
     Quote
+
 Body Pages
+    
     Offerings
         Hot stone massage
         Deep tissue
@@ -23,18 +28,23 @@ Body Pages
         Couples massage
         Pre-natal
         Sports
+    
     Feedback
         Positive experience?
         Would you recommend?
         Contact for next appointment (wufoo or G.Docs)
+    
     Links Page
         
     Contact/Directions
+        
         Contact
             Phone
             E-mail Form
             Phyiscal mailing Address
+        
         Location/Map
+
 Footer
     Social media links
     Copyright
