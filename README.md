@@ -1,12 +1,12 @@
 Rayne Drop
 Freelance Massage Therapist
 
-***Style Stuffs***
+--Style Stuffs
 Sweet, Sweet Favicon
 Background Image, repeatable
 Responsive with media queries
 
-***Content***
+--Content
 Header
     Title
     Logo
