@@ -7,63 +7,57 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/layout.css" rel="stylesheet">
 </head>
+
 <body>
+    <br/>
     <div class="container">
-      
-<!-- HEADER -->        
-        
-      <header class="row"> 
-        <div class="col-xs-6 col-md-4">
-          <h2>Susie's Mansion of Massage</h2>
-        </div> <!-- end site-title-->
-        <div class="col-xs-12 col-md-8">
-          <a href=""><img class="img-responsive" src ="content/logo.jpg" /></a>
-        </div>
-      </header>
-      
-<!-- BODY -->        
-        
-      <div class="row"> <!-- body container -->
-          <div class="col-xs-6 col-md-4">
-              <ul class="nav nav-pills nav-stacked">
-                <li class="active"><a href="">Item 1</a></li>
-                <li><a href="">Item 2</a></li>
-                <li><a href="">Item 3</a></li>
-               </ul>
-               <img src="content/headshot.jpg" class="img-responsive">
-               <p>Epic Quotation here, probs with styling</p>
-          </div> <!-- navBar -->
-          <div class="col-xs-12 col-md-8"> <!-- body content -->
-            <h1>Forget-Me-Now</h1>
-            <p>I care deeply for nature. I don't criticize you! And if you're worried about criticism, sometimes a diet is the best defense. There's so many poorly chosen words in that sentence. I'm half machine. I'm a monster.</p>
-            <h2>Exit Strategy</h2>
-            <p>Michael! No! I was ashamed to be SEEN with you. I like being with you. That's why you always leave a note! It's called 'taking advantage.' It's what gets you ahead in life. I'm a monster.</p>
-            <ul>
-            <li>Get me a vodka rocks. And a piece of toast.</li>
-            <li>I don't understand the question, and I won't respond to it.</li>
-            <li>It's called 'taking advantage.' It's what gets you ahead in life.</li>
-            <li>Get me a vodka rocks. And a piece of toast.</li>
-            </ul>
-            <h3>Ready, Aim, Marry Me</h3>
-            <p>Well, what do you expect, mother? Well, what do you expect, mother? Did you enjoy your meal, Mom? You drank it fast enough. Across from where? Really? Did nothing cancel? That's why you always leave a note!</p>
-            <h4>Good Grief!</h4>
-            <p>There's so many poorly chosen words in that sentence. Guy's a pro. Across from where? As you may or may not know, Lindsay and I have hit a bit of a rough patch. Marry me.</p>
-            <ol>
-            <li>I'm afraid I just blue myself.</li>
-            <li>Michael!</li>
-            </ol>
-            <h5>Afternoon delight</h5>
-            <p>As you may or may not know, Lindsay and I have hit a bit of a rough patch. I don't understand the question, and I won't respond to it. I'm a monster. Well, what do you expect, mother?</p>
-          </div> <!-- end body-content -->
-      </div> <!-- end body container -->
-      
-<!-- FOOTER -->      
-        
-      <div class="panel-footer">
-        <p>this be the footer</p>
-      </div>
-    
-    </div><!-- end main-container -->
+        <div class="row row-offcanvas row-offcanvas-right">
+
+        <div class="col-xs-12 col-sm-9">
+            <p class="pull-right visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="dropdown">Toggle nav</button>
+          </p>
+          <div class="jumbotron">
+            <h1>Hello, world!</h1>
+            <p>This is an example to show the potential of an offcanvas layout pattern in Bootstrap. Try some responsive-range viewport sizes to see it in action.</p>
+          </div>
+          <div class="row">
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Heading 1</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Heading 2</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Heading 3</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+          </div><!--/row-->
+        </div><!--/span-->
+
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+          <div class="list-group">
+            <a href="#" class="list-group-item active">Home</a>
+            <a href="#" class="list-group-item">Contact</a>
+            <a href="#" class="list-group-item">Services</a>
+            <a href="#" class="list-group-item">Testimonials</a>
+         
+          </div>
+        </div><!--/span-->
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+        <p>&copy; Company 2013</p>
+      </footer>
+
+    </div><!--/.container-->
   
 <!-- .js files at the end for quick loading pages -->
 
