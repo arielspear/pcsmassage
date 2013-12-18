@@ -1,18 +1,18 @@
 ###PCS Massage Assignment###
 Potential names:
-_Rose City LMT_
-_BridgePort LMT_
-_Susie's Massage Palace_
-_Good Vertebrations_
-[Current Address](https://www.google.com/maps/preview#!q=freemont+bridge&data=!1m4!1m3!1d2471!2d-122.6830807!3d45.5377902!4m15!2m14!1m13!1s0x5495a759ba3ae14f%3A0x9014fe26b76a82db!3m8!1m3!1d2591960!2d-120.5834015!3d44.1454465!3m2!1i1057!2i679!4f13.1!4m2!3d45.537918!4d-122.682952)
+_Rose City LMT_<br/>
+_BridgePort LMT_<br/>
+_Susie's Massage Palace_<br/>
+_Good Vertebrations_<br/>
+[Current Address](https://www.google.com/maps/preview#!q=freemont+bridge&data=!1m4!1m3!1d2471!2d-122.6830807!3d45.5377902!4m15!2m14!1m13!1s0x5495a759ba3ae14f%3A0x9014fe26b76a82db!3m8!1m3!1d2591960!2d-120.5834015!3d44.1454465!3m2!1i1057!2i679!4f13.1!4m2!3d45.537918!4d-122.682952)<br/>
 
 ####Group Assignments, etc.####
-Chris/trippel: Overall Structure/Homepage
-Ariel/clemtine:
-Blake/blakesandes:
+Chris/trippel: Overall Structure/Homepage<br/>
+Ariel/clemtine:<br/>
+Blake/blakesandes:<br/>
 
-Kaija: 
-Garret:
+Kaija: <br/>
+Garret:<br/>
 
 ---
 >_Original group structure_
