@@ -4,6 +4,7 @@ _Rose City LMT_<br/>
 _BridgePort LMT_<br/>
 _Susie's Massage Palace_<br/>
 _Good Vertebrations_<br/>
+
 [Current Address](https://www.google.com/maps/preview#!q=freemont+bridge&data=!1m4!1m3!1d2471!2d-122.6830807!3d45.5377902!4m15!2m14!1m13!1s0x5495a759ba3ae14f%3A0x9014fe26b76a82db!3m8!1m3!1d2591960!2d-120.5834015!3d44.1454465!3m2!1i1057!2i679!4f13.1!4m2!3d45.537918!4d-122.682952)<br/>
 
 ####Group Assignments, etc.####
@@ -13,6 +14,14 @@ Blake/blakesandes:<br/>
 
 Kaija: <br/>
 Garret:<br/>
+
+_Unassigned_
+CSS and palette implementation<br/>
+about.html<br/>
+offerings.html<br/>
+links.html<br/>
+feedback.html<br/>
+contact.html<br/>
 
 ---
 >_Original group structure_<br/>
@@ -70,7 +79,7 @@ Responsive with media queries
         Copyright
 
 ---
->_Original Client Requests_
+>_Original Client Requests_<br/>
 >1. the same header, footer, and navigation menu on each page<br/>
 2. a navigation menu with at least 3 items (each is a link to a new page) ­­ “home” should NOT be one of the options (that’s what the logo is for in the header)<br/>
 3. an “offerings” page with her 5 menu offerings (hot stone massage, deep tissue, etc.), with one­sentence descriptions and the prices. These may be displayed in one of three ways: 1) in a table, 2) a single content area with multiple tabs, 3) using headers and p tags<br/>
