@@ -16,11 +16,11 @@ Garret:<br/>
 
 ---
 >_Original group structure_
->**Team**: agree on color palette and “feel”; be sure you know who’s doing what; use a css reset;
->**Person 1**: start building the contact page
->**Person 2**: start building the feedback and links pages
->**Person 3**: start building the offerings page
->**Person 4**: start building the home page (header, footer, and nav menu)
+>**Team**: agree on color palette and “feel”; be sure you know who’s doing what; use a css reset;<br/>
+>**Person 1**: start building the contact page<br/>
+>**Person 2**: start building the feedback and links pages<br/>
+>**Person 3**: start building the offerings page<br/>
+>**Person 4**: start building the home page (header, footer, and nav menu)<br/>
 
 ####Remote Use####
 After meeting up at Hack and Help this week, Git isn't exactly the proper tool for this assignment given we're creating a stack of static pages. We'll run into some crazy merge requests if we're not careful, so here's the plan:
