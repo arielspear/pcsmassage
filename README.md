@@ -15,13 +15,15 @@ Blake/blakesandes:<br/>
 Kaija: <br/>
 Garret:<br/>
 
-_Unassigned_
+_Unassigned_<br/>
 CSS and palette implementation<br/>
 about.html<br/>
 offerings.html<br/>
 links.html<br/>
 feedback.html<br/>
 contact.html<br/>
+favicon<br/>
+BG image<br/>
 
 ---
 >_Original group structure_<br/>
@@ -37,12 +39,6 @@ After meeting up at Hack and Help this week, Git isn't exactly the proper tool f
 The main structure of the site as it is now we have to clone to fit the content of about.html, offerings.html, etc. I'll continue to make changes to the main index.html and pcsmassage.css as the assignment goes on. I'll leave clear html comments on where to place content for each unique page.
 
 So, if Ariel, for example, is working on offerings.html, she'll create the content for that page and copy/paste whatever changes I push to the master branch in index.html to the beginning and ending of her about.html (again, this is fairly clear in within the comments). 
-
-####Style Stuffs####
-
-Sweet, Sweet Favicon
-Background Image, repeatable
-Responsive with media queries
 
 ####Content Structure####
 
