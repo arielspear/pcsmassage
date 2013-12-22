@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color:#fffae4;
+    background-color:#fcfae6;
 }
 
 .row {
@@ -74,3 +74,19 @@ footer {
     padding-bottom:15px;
     text-align:center;
 }
+
+.triple {
+    background-color:#d3d4aa;
+    padding:15px 0 15px 0;
+}
+
+.container {
+    max-width:940px;
+/*    background-color:#e7e9d1;*/
+}
+
+/*@media (max-width: 767px) {
+  .container {
+    width: 320px;
+  }
+}*/
