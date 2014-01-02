@@ -1,21 +1,22 @@
 body {
-  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  background: url(../img/logo_large.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, {
   text-transform: uppercase;
   letter-spacing: 3px;
   font-weight: 400;
-  font-family: 'Dancing Script', Georgia, Times, serif;
-  line-height: 60px;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  line-height: 70px;
 }
 
 p {
   font-size: 1.25em;
+  font-family: 'Lato', sans-serif;
   line-height: 1.6;
   color: #000;
 }
@@ -48,16 +49,22 @@ hr {
 }
 
 .brand-name {
-  font-weight: 700;
+  font-weight: 500;
+  font-family: 'Lato', sans-serif;
   font-size: 1.5em;
   text-transform: capitalize;
   letter-spacing: normal;
 }
 
 .tagline-divider {
+  font-family: 'Lato', sans-serif;
   margin: 15px auto 3px;
   border-color: #999999;
   max-width: 250px;
+}
+
+.proprietor {
+  font-family: 'Lato', sans-serif;
 }
 
 .box {
@@ -93,6 +100,12 @@ footer {
 footer p {
   margin: 0;
   padding: 50px 0;
+}
+
+#maintitle {
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	font-style: italic;
 }
 
 @media screen and (min-width: 768px) {
@@ -165,17 +178,4 @@ footer p {
   font-size: 1.25em;
 }
 
-}
-
-/* h1 {
-    font-family: 'Dancing Script', Georgia, Times, serif;
-    font-size: 59px;
-    line-height: 60px;
-}
- 
-p {
-    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 25px;
-    margin-top: 15px;
 }
