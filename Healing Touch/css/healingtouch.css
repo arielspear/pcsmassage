@@ -48,6 +48,10 @@ hr {
   min-width: 100%;
 }
 
+.massagecarousel img{
+	margin: 0 auto;
+}
+
 .brand-name {
   font-weight: 500;
   font-family: 'Lato', sans-serif;
@@ -92,6 +96,8 @@ hr {
   margin: 0 auto 0;
 }
 
+
+
 footer {
   background: #fff;
   background: rgba(255,255,255,0.9);
@@ -99,14 +105,29 @@ footer {
 
 footer p {
   margin: 0;
-  padding: 50px 0;
+  padding: 10px 0;
 }
 
-#maintitle {
+#maintitle a {
 	font-family: 'Lato', sans-serif;
 	font-weight: 100;
 	font-style: italic;
+	color: #EECBAD;
 }
+
+#candles {
+	width: 200px;
+	height: auto;
+	padding: 5px 5px 5px 5px;
+	display: table-cell; 
+	vertical-align: middle; 
+}
+
+#aboutme {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
 
 @media screen and (min-width: 768px) {
 
