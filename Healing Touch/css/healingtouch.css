@@ -96,23 +96,14 @@ hr {
   margin: 0 auto 0;
 }
 
+
 #spa {
   float: center;
 }
 
-#contact {
-  float: right;
+#below_spa {
+  color: #A6CAFF;
 }
-
-#location {
-  float: left;
-}
-
-#map {
-  float: left;
-}
-
-
 
 footer {
   background: #fff;
