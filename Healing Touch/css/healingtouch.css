@@ -96,6 +96,22 @@ hr {
   margin: 0 auto 0;
 }
 
+#spa {
+  float: center;
+}
+
+#contact {
+  float: right;
+}
+
+#location {
+  float: left;
+}
+
+#map {
+  float: left;
+}
+
 
 
 footer {
