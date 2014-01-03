@@ -198,5 +198,12 @@ footer p {
   table-layout: fixed;
   font-size: 1.25em;
 }
+.tbody {
+  background: url("../img/table-back.jpg") no-repeat center center fixed; 
+  opacity: 0.6;
+  border: none;
+
+}
+
 
 }
