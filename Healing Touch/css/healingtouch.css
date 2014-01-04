@@ -103,6 +103,13 @@ hr {
 
 #below_spa {
   color: #A6CAFF;
+
+}
+
+a[href^="mailto:"]  {
+    background-color: #FFEED5;
+    border-color: #45A5FF;
+    border: solid 1px;  
 }
 
 footer {
