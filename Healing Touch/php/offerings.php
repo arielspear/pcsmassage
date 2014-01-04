@@ -1,4 +1,4 @@
-<?php include("header.htm"); ?>
+<?php include("header.php"); ?>
 
         
   <!-- CONTENT GOES HERE NOW ///////////////////////////////////////////////////// -->
@@ -67,4 +67,4 @@
       
   <!-- CONTENT ENDS HERE NOW ///////////////////////////////////////////////////// -->
       
-<?php include("footer.htm"); ?>
+<?php include("footer.php"); ?>
