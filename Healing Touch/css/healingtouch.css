@@ -79,8 +79,13 @@ hr {
 }
 .contact_blake {
   min-height: 600px;
+
 }
 
+.appointment {
+  font-size: 1.4em;
+  margin-top: 100px;
+}
 .intro-text {
   text-transform: uppercase;
   letter-spacing: 1px;
